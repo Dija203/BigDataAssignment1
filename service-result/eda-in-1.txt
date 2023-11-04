@@ -1,0 +1,10 @@
+
+The number of null values
+-----------------------------------
+Category           1
+Color              4
+Season             1
+Review Rating      7
+Promo Code Used    2
+dtype: int64
+-----------------------------------
